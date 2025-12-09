@@ -15,14 +15,14 @@ pre : " <b> 5.3 </b> "
  Chỉ định tên cho bucket: ```s3-demo-text```
 
 
-![S3](/images/5-Workshop/5.3-S3-vpc/s3-create-bucket.jpg)
+![S3](/images/5-Workshop/5.3-S3/s3-create-bucket.jpg)
 
 + Không thêm tag cho VPC endpoint vào lúc này.
 + Nhấn **Create bucket**
-![S3](/images/5-Workshop/5.3-S3-vpc/complete.jpg)
+![S3](/images/5-Workshop/5.3-S3/complete.jpg)
 + Sau đó chọn bucket vừa tạo rồi chọn  **Create folder**
 + Trong bảng điều khiển Tạo thư mục: 
 Chỉ định tên của bucket:  ```input```
-![S3](/images/5-Workshop/5.3-S3-vpc/create-folder.jpg)
+![S3](/images/5-Workshop/5.3-S3/create-folder.jpg)
 sau đó chọn **Create folder**
 + Chúng ta làm tương tự khi tạo tệp **output**.

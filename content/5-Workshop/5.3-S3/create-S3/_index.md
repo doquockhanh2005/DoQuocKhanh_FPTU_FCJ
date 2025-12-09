@@ -15,14 +15,14 @@ pre : " <b> 5.3 </b> "
  Specify name of the bucket: ```s3-demo-text```
 
 
-![S3](/images/5-Workshop/5.3-S3-vpc/s3-create-bucket.jpg)
+![S3](/images/5-Workshop/5.3-S3/s3-create-bucket.jpg)
 
 + Do not add a tag to the VPC endpoint at this time.
 + Click **Create bucket**
-![S3](/images/5-Workshop/5.3-S3-vpc/complete.jpg)
+![S3](/images/5-Workshop/5.3-S3/complete.jpg)
 + Then click on the bucket you just created and press **Create folder**
 + In the Create folder console:
 Specify name of the bucket: ```input```
-![S3](/images/5-Workshop/5.3-S3-vpc/create-folder.jpg)
+![S3](/images/5-Workshop/5.3-S3/create-folder.jpg)
 then click **Create folder**
 + We do the same with creating the **output** file.
