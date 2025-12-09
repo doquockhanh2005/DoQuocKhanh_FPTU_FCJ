@@ -1,6 +1,6 @@
 ---
 title: "Nhật ký công việc"
-date: 2024-09-15
+date: 2025-12-08
 
 
 weight: 1
@@ -17,26 +17,26 @@ pre: " <b> 1. </b> "
 
 Thông thường và cũng là tiêu chuẩn, một worklog được thực hiện trong khoảng 3 tháng (trong suốt thời gian thực tập) với nội dung các tuần như sau:
 
-**Tuần 1:** [Làm quen với AWS và các dịch vụ cơ bản trong AWS](1.1-week1/)
+**Tuần 1:** [Làm quen với AWS, IAM & Billing](1.1-week1/)
 
-**Tuần 2:** [Làm việc với EC2, EBS, Security Group & Web Server](1.2-week2/)
+**Tuần 2:** [Networking: Kiến trúc VPC, Subnet, Route Table & Security Group](1.2-week2/)
 
-**Tuần 3:** [Tìm hiểu VPC cơ bản: Subnet, Route Table, IGW](1.3-week3/)
+**Tuần 3:** [Compute & Scaling: EC2, EBS, Load Balancer & Auto Scaling](1.3-week3/)
 
-**Tuần 4:** [Thiết kế VPC nhỏ: Public/Private subnet + NAT Gateway](1.4-week4/)
+**Tuần 4:** [Storage & CDN: S3, Static Website Hosting & CloudFront](1.4-week4/)
 
-**Tuần 5:** [Học S3 nâng cao: Versioning, Lifecycle, Encryption, Glacier](1.5-week5/)
+**Tuần 5:** [Database: RDS (SQL), DynamoDB (NoSQL) & Multi-AZ](1.5-week5/)
 
-**Tuần 6:** [Làm việc với RDS & DynamoDB: Snapshot, Replica, CRUD](1.6-week6/)
+**Tuần 6:** [Tổng ôn tập & Thực hành Lab tổng hợp (VPC + EC2 + RDS + S3)](1.6-week6/)
 
-**Tuần 7:** [Cấu hình Load Balancer & Auto Scaling Group (ALB → ASG → EC2)](1.7-week7/)
+**Tuần 7:** [Serverless: Lambda Function & API Gateway](1.7-week7/)
 
-**Tuần 8:** [Luồng sự kiện với SNS, SQS & EventBridge](1.8-week8/)
+**Tuần 8:** [Containers: Docker, ECR & Amazon ECS Fargate](1.8-week8/)
 
-**Tuần 9:** [Xây dựng API Serverless với Lambda & API Gateway](1.9-week9/)
+**Tuần 9:** [Infrastructure as Code (IaC) với AWS CDK](1.9-week9/)
 
-**Tuần 10:** [Hạ tầng dưới dạng mã với CloudFormation (VPC + EC2 + SG)](1.10-week10/)
+**Tuần 10:** [DevOps: Xây dựng CI/CD Pipeline (CodeBuild, CodePipeline)](1.10-week10/)
 
-**Tuần 11:** [Giám sát & ghi log với CloudWatch & CloudTrail](1.11-week11/)
+**Tuần 11:** [Giám sát hệ thống & Ghi logs với CloudWatch & CloudTrail](1.11-week11/)
 
-**Tuần 12:** [Kiến trúc, bảo mật & tối ưu: KMS, WAF, Well-Architected Framework](1.12-week12/)
+**Tuần 12:** [Tổng kết: Tích hợp Serverless, Container & DevOps, workshop 1](1.12-week12/)

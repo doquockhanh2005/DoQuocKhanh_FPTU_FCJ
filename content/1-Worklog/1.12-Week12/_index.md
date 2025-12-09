@@ -1,6 +1,6 @@
 ---
 title: "Week 12 Worklog"
-date: 2024-09-15
+date: 2025-12-07
 
 
 weight: 2
@@ -14,46 +14,26 @@ pre: " <b> 1.12. </b> "
 
 ### Week 12 Objectives:
 
-* Connect and get acquainted with members of First Cloud Journey.
-* Understand basic AWS services, how to use the console & CLI.
+* Systematize knowledge regarding Serverless (Lambda) and Containers (ECS).
+* Reinforce skills in Infrastructure as Code (CDK) and CI/CD Pipelines.
+* **Practice**: Workshop 1 - **Automated Text-to-Speech Converter using Serverless**
 
 ### Tasks to be carried out this week:
 | Day | Task                                                                                                                                                                                                   | Start Date | Completion Date | Reference Material                        |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | ----------------------------------------- |
-| 2   | - Get acquainted with FCJ members <br> - Read and take note of internship unit rules and regulations                                                                                                   | 08/11/2025 | 08/11/2025      |
-| 3   | - Learn about AWS and its types of services <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                              | 08/12/2025 | 08/12/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Create AWS Free Tier account <br> - Learn about AWS Console & AWS CLI <br> - **Practice:** <br>&emsp; + Create AWS account <br>&emsp; + Install & configure AWS CLI <br> &emsp; + How to use AWS CLI | 08/13/2025 | 08/13/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Learn basic EC2: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - SSH connection methods to EC2 <br> - Learn about Elastic IP   <br>                            | 08/14/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Practice:** <br>&emsp; + Launch an EC2 instance <br>&emsp; + Connect via SSH <br>&emsp; + Attach an EBS volume                                                                                     | 08/15/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
+| 2   | - Review Weeks 7 & 8: Compare pros and cons of Serverless (Lambda) vs. Containers (ECS). <br> - Review optimal Docker Image packaging techniques. | 24/11/2025 | 26/11/2025 |
+| 3   | - Review Week 9 (IaC): Re-read old CDK code, ensuring understanding of Construct and Stack structures. <br> - Try writing a short CDK snippet to create a new resource (e.g., SNS Topic) to test retention/reflexes. | 27/11/2025 | 28/11/2025 |
+| 4   | - Review Week 10 (CI/CD): Redraw the Pipeline execution flow (Source -> Build -> Deploy). <br> - Review common Build errors (missing permissions, incorrect config files). | 29/11/2025 | 30/11/2025 |
+| 5   | - Review Week 11 (Monitoring): Check if yesterday's Integrated Lab has Logs and Metrics available.   | 1/12/2025 | 1/12/2025      | 
+| 6   | - **Practice** Workshop 1 **Automated Text-to-Speech Converter using Serverless**                                                                                 | 03/12/2025 | 07/12/2025      ||
 
 
 ### Week 12 Achievements:
 
-* Understood what AWS is and mastered the basic service groups: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
+* Successfully linked the connections between DevOps tools (Code -> Build -> Deploy -> Monitor).
 
-* Successfully created and configured an AWS Free Tier account.
+* Gained confidence in debugging permission-related issues (IAM Roles) within Pipelines and Lambda.
+  
+* Completed the challenging Integrated Lab (IaC + CI/CD + Containers)
 
-* Became familiar with the AWS Management Console and learned how to find, access, and use services via the web interface.
-
-* Installed and configured AWS CLI on the computer, including:
-  * Access Key
-  * Secret Key
-  * Default Region
-  * ...
-
-* Used AWS CLI to perform basic operations such as:
-
-  * Check account & configuration information
-  * Retrieve the list of regions
-  * View EC2 service
-  * Create and manage key pairs
-  * Check information about running services
-  * ...
-
-* Acquired the ability to connect between the web interface and CLI to manage AWS resources in parallel.
-* ...
+* Completed workshop 1 and demo

@@ -1,6 +1,6 @@
 ---
 title: "Worklog Tuần 12"
-date: 2024-09-15
+date: 2025-12-07
 
 
 weight: 2
@@ -13,48 +13,27 @@ pre: " <b> 1.12 </b> "
 
 ### Mục tiêu tuần 12:
 
-* Kết nối, làm quen với các thành viên trong First Cloud Journey.
-* Hiểu dịch vụ AWS cơ bản, cách dùng console & CLI.
+* Hệ thống hóa lại kiến thức về Serverless (Lambda) và Containers (ECS).
+* Củng cố kỹ năng về Infrastructure as Code (CDK) và CI/CD Pipeline.
+**Thực Hành** Workshop 1 - **Automated Text-to-Speech Converter using Serverless**
 
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Làm quen với các thành viên FCJ <br> - Đọc và lưu ý các nội quy, quy định tại đơn vị thực tập                                                                                             | 11/08/2025   | 11/08/2025      |
-| 3   | - Tìm hiểu AWS và các loại dịch vụ <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                            | 12/08/2025   | 12/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Tạo AWS Free Tier account <br> - Tìm hiểu AWS Console & AWS CLI <br> - **Thực hành:** <br>&emsp; + Tạo AWS account <br>&emsp; + Cài AWS CLI & cấu hình <br> &emsp; + Cách sử dụng AWS CLI | 13/08/2025   | 13/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Tìm hiểu EC2 cơ bản: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - Các cách remote SSH vào EC2 <br> - Tìm hiểu Elastic IP   <br>                  | 14/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Thực hành:** <br>&emsp; + Tạo EC2 instance <br>&emsp; + Kết nối SSH <br>&emsp; + Gắn EBS volume                                                                                         | 15/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
+| 2   | - Ôn tập Tuần 7 & 8: So sánh ưu nhược điểm khi chọn Serverless (Lambda) vs Containers (ECS). <br> - Review lại cách đóng gói Docker Image tối ưu. | 24/11/2025 | 24/11/2025 |
+| 3   | - Ôn tập Tuần 9 (IaC): Đọc lại code CDK cũ, đảm bảo hiểu cấu trúc Construct và Stack. <br> - Thử viết một đoạn code CDK ngắn tạo tài nguyên lạ (VD: SNS Topic) để kiểm tra phản xạ. | 25/11/2025 | 25/11/2025 |
+| 4   |  - Ôn tập Tuần 10 (CI/CD): Vẽ lại sơ đồ luồng chạy của Pipeline (Source -> Build -> Deploy). <br> - Review các lỗi thường gặp khi Build (thiếu quyền, sai file config). | 26/11/2025 | 26/11/2025 |
+| 5   | - Ôn tập Tuần 11 (Monitoring): Kiểm tra xem Lab tích hợp hôm qua đã có Logs và Metrics chưa.
+| 6   | **Thực Hành** Workshop 1 **Automated Text-to-Speech Converter using Serverless**                                                                                 | 03/12/2025 | 07/12/2025      ||
+
 
 
 ### Kết quả đạt được tuần 12:
 
-* Hiểu AWS là gì và nắm được các nhóm dịch vụ cơ bản: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
+* Đã xâu chuỗi được mối liên hệ giữa các công cụ DevOps (Code -> Build -> Deploy -> Monitor).
 
-* Đã tạo và cấu hình AWS Free Tier account thành công.
+* Tự tin hơn trong việc debug các vấn đề liên quan đến phân quyền (IAM Roles) trong Pipeline và Lambda.
 
-* Làm quen với AWS Management Console và biết cách tìm, truy cập, sử dụng dịch vụ từ giao diện web.
+* Hoàn thành bài Lab tích hợp khó (IaC + CI/CD + Containers)
 
-* Cài đặt và cấu hình AWS CLI trên máy tính bao gồm:
-  * Access Key
-  * Secret Key
-  * Region mặc định
-  * ...
-
-* Sử dụng AWS CLI để thực hiện các thao tác cơ bản như:
-
-  * Kiểm tra thông tin tài khoản & cấu hình
-  * Lấy danh sách region
-  * Xem dịch vụ EC2
-  * Tạo và quản lý key pair
-  * Kiểm tra thông tin dịch vụ đang chạy
-  * ...
-
-* Có khả năng kết nối giữa giao diện web và CLI để quản lý tài nguyên AWS song song.
-* ...
-
-
+* Hoàn thành workshop 1 và demo

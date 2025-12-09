@@ -10,8 +10,8 @@ pre: " <b> 6. </b> "
 
 
 
-Trong suốt thời gian thực tập tại **[Tên công ty/tổ chức]** từ **[ngày bắt đầu]** đến **[ngày kết thúc]**, tôi đã có cơ hội học hỏi, rèn luyện và áp dụng kiến thức đã được trang bị tại trường vào môi trường làm việc thực tế.  
-Tôi đã tham gia **[mô tả ngắn gọn dự án hoặc công việc chính]**, qua đó cải thiện kỹ năng **[liệt kê kỹ năng: lập trình, phân tích, viết báo cáo, giao tiếp…]**.  
+Trong suốt thời gian thực tập tại **First Cloud Journey program** từ **08/09/2025** đến **09/12/2025**, tôi đã có cơ hội học hỏi, rèn luyện và áp dụng kiến thức đã được trang bị tại trường vào môi trường làm việc thực tế.  
+"Tôi đã có cơ hội tìm hiểu về công nghệ điện toán đám mây và vận dụng những kiến thức đã học vào nhiều dự án thực tế. Việc nghiên cứu các dịch vụ AWS và tham gia các buổi workshop đã giúp tôi hiểu sâu hơn về lĩnh vực này. Ngoài ra, đây cũng là dịp để tôi mở rộng mạng lưới quan hệ của mình.".  
 
 Về tác phong, tôi luôn cố gắng hoàn thành tốt nhiệm vụ, tuân thủ nội quy, và tích cực trao đổi với đồng nghiệp để nâng cao hiệu quả công việc.
 
