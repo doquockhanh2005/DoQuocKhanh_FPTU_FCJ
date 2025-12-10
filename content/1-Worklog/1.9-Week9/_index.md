@@ -20,7 +20,7 @@ pre: " <b> 1.9. </b> "
 ### Tasks to be carried out this week:
 | Day | Task                                                                                                                                                                                                   | Start Date | Completion Date | Reference Material                        |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | ----------------------------------------- |
-| 2   | - Learn IaC (Infrastructure as Code) concepts <br> - Introduction to CloudFormation and AWS CDK (Cloud Development Kit) | 03/11/2025 | 03/11/2025 | <https://cloudjourney.awsstudygroup.com/> |
+| 2   | - Learn IaC (Infrastructure as Code) concepts <br> - Introduction to CloudFormation and AWS CDK (Cloud Development Kit) | 03/11/2025 | 03/11/2025 |  |
 | 3   | - **Practice:** Install AWS CDK, initialize a CDK project (TypeScript/Python) <br> - Understand App, Stack, and Construct structure | 04/11/2025 | 04/11/2025 | 
 | 4   | - **Practice:** Write CDK code to create an S3 Bucket and DynamoDB Table <br> - Learn `cdk synth` and `cdk deploy` commands | 05/11/2025 | 05/11/2025 | 
 | 5   | - **Advanced Practice:** Write CDK code to rebuild the VPC (similar to Week 2) <br> - Manage dependencies between resources in code | 06/11/2025 | 06/11/2025 |

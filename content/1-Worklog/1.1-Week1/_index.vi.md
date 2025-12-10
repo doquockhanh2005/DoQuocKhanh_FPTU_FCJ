@@ -22,10 +22,10 @@ pre: " <b> 1.1. </b> "
 | Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
 | 2   | - Kết nối với các thành viên FCJ <br> - Đọc và lưu ý các nội quy, quy định tại đơn vị thực tập    | 08/09/2025   | 08/09/2025      |
-| 3   | - Tìm hiểu về tài khoản AWS <br> - **Thực hành:**:- Tạo tài khoản AWS Free Tier <br>                                            | 09/09/2025   | 09/09/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Giới thiệu về điện toán đám mây  | 10/09/2025   | 10/09/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Tìm hiểu các công cụ quản lý tài khoản và chi phí của AWS, <br> - Tìm hiểu về AWS support                  | 11/09/2025   | 11/09/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Thực hành:** Tạo ngân sách cho tài khoản và admin group và admin user| 12/09/2025   | 12/09/2025      | <https://cloudjourney.awsstudygroup.com/> |
+| 3   | - Tìm hiểu về tài khoản AWS <br> - **Thực hành:**:- Tạo tài khoản AWS Free Tier <br>                                            | 09/09/2025   | 09/09/2025      |  |
+| 4   | - Giới thiệu về điện toán đám mây  | 10/09/2025   | 10/09/2025      |  |
+| 5   | - Tìm hiểu các công cụ quản lý tài khoản và chi phí của AWS, <br> - Tìm hiểu về AWS support                  | 11/09/2025   | 11/09/2025      |  |
+| 6   | - **Thực hành:** Tạo ngân sách cho tài khoản và admin group và admin user| 12/09/2025   | 12/09/2025      |  |
 
 
 ### Kết quả đạt được tuần 1:

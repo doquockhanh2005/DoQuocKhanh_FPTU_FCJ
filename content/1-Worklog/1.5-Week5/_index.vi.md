@@ -21,11 +21,11 @@ pre: " <b> 1.5. </b> "
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Tìm hiểu Amazon RDS, các engine hỗ trợ (MySQL, Postgres...) <br> - Khái niệm Multi-AZ và Read Replicas    | 06/10/2025   | 06/10/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 3   | - **Thực hành:** Tạo RDS Instance (MySQL) trong Private Subnet <br> - Cấu hình Security Group cho phép EC2 kết nối tới RDS                                            | 07/10/2025   | 07/10/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Tìm hiểu Amazon DynamoDB (NoSQL): Table, Item, Partition Key, Sort Key <br> - Các chế độ Capacity (Provisioned vs On-demand)  | 08/10/2025   | 08/10/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - **Thực hành:** Tạo bảng DynamoDB, thêm/sửa/xóa item qua AWS Console và AWS CLI <br> - Tìm hiểu ElastiCache (Redis) cơ bản                  | 09/10/2025   | 09/10/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Thực hành:** Viết script nhỏ (Python/NodeJS) trên EC2 để query dữ liệu từ RDS và DynamoDB.| 10/10/2025   | 10/10/2025      | <https://cloudjourney.awsstudygroup.com/> |
+| 2   | - Tìm hiểu Amazon RDS, các engine hỗ trợ (MySQL, Postgres...) <br> - Khái niệm Multi-AZ và Read Replicas    | 06/10/2025   | 06/10/2025      |  |
+| 3   | - **Thực hành:** Tạo RDS Instance (MySQL) trong Private Subnet <br> - Cấu hình Security Group cho phép EC2 kết nối tới RDS                                            | 07/10/2025   | 07/10/2025      |  |
+| 4   | - Tìm hiểu Amazon DynamoDB (NoSQL): Table, Item, Partition Key, Sort Key <br> - Các chế độ Capacity (Provisioned vs On-demand)  | 08/10/2025   | 08/10/2025      |  |
+| 5   | - **Thực hành:** Tạo bảng DynamoDB, thêm/sửa/xóa item qua AWS Console và AWS CLI <br> - Tìm hiểu ElastiCache (Redis) cơ bản                  | 09/10/2025   | 09/10/2025      |  |
+| 6   | - **Thực hành:** Viết script nhỏ (Python/NodeJS) trên EC2 để query dữ liệu từ RDS và DynamoDB.| 10/10/2025   | 10/10/2025      |  |
 
 ### Kết quả đạt được tuần 5:
 

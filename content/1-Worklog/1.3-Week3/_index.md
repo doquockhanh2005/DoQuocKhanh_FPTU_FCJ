@@ -21,11 +21,11 @@ pre: " <b> 1.3. </b> "
 ### Tasks to be carried out this week:
 | Day | Task                                                                                                                                                                                                   | Start Date | Completion Date | Reference Material                        |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | ----------------------------------------- |
-| 2   | - Learn EC2 Instance types, AMIs, and Key Pairs <br> - Learn about EBS Volumes and Snapshots | 22/09/2025 | 22/09/2025 | <https://cloudjourney.awsstudygroup.com/> |
-| 3   | - **Practice:** Launch a Linux EC2 instance, SSH into the server, install basic Apache/Nginx <br> - Attach an additional EBS Volume to the EC2 | 23/09/2025 | 23/09/2025 | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Study Elastic Load Balancer (ALB vs. NLB) <br> - Learn about Auto Scaling Groups (ASG) and Launch Templates | 24/09/2025 | 24/09/2025 | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - **Practice:** Create an Application Load Balancer pointing to EC2 <br> - Configure Target Groups and Health Checks | 25/09/2025 | 25/09/2025 | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Lab Practice:** Simulate high traffic to trigger Auto Scaling to automatically launch new servers. | 26/09/2025 | 26/09/2025 | <https://cloudjourney.awsstudygroup.com/> |
+| 2   | - Learn EC2 Instance types, AMIs, and Key Pairs <br> - Learn about EBS Volumes and Snapshots | 22/09/2025 | 22/09/2025 |  |
+| 3   | - **Practice:** Launch a Linux EC2 instance, SSH into the server, install basic Apache/Nginx <br> - Attach an additional EBS Volume to the EC2 | 23/09/2025 | 23/09/2025 |  |
+| 4   | - Study Elastic Load Balancer (ALB vs. NLB) <br> - Learn about Auto Scaling Groups (ASG) and Launch Templates | 24/09/2025 | 24/09/2025 |  |
+| 5   | - **Practice:** Create an Application Load Balancer pointing to EC2 <br> - Configure Target Groups and Health Checks | 25/09/2025 | 25/09/2025 |  |
+| 6   | - **Lab Practice:** Simulate high traffic to trigger Auto Scaling to automatically launch new servers. | 26/09/2025 | 26/09/2025 |  |
 
 
 ### Week 3 Achievements:

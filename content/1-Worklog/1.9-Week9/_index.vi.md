@@ -23,7 +23,7 @@ pre: " <b> 1.9. </b> "
 | 3   | - **Thực hành:** Cài đặt AWS CDK, khởi tạo project CDK (TypeScript/Python) <br> - Tìm hiểu cấu trúc App, Stack, Construct                                            | 04/11/2025   | 04/11/2025      | 
 | 4   | - **Thực hành:** Viết code CDK để tạo một S3 Bucket và DynamoDB Table <br> - Lệnh `cdk synth` và `cdk deploy`  | 05/11/2025   | 05/11/2025      | 
 | 5   | - **Thực hành nâng cao:** Viết code CDK để dựng lại VPC (như tuần 2) <br> - Quản lý sự phụ thuộc giữa các resource trong code                  | 06/11/2025   | 06/11/2025      | 
-| 6   | - Thực hiện `cdk destroy` để dọn dẹp tài nguyên. Hiểu về Drift detection.| 07/11/2025   | 07/11/2025      | <https://cloudjourney.awsstudygroup.com/> |
+| 6   | - Thực hiện `cdk destroy` để dọn dẹp tài nguyên. Hiểu về Drift detection.| 07/11/2025   | 07/11/2025      |  |
 
 
 ### Kết quả đạt được tuần 9:

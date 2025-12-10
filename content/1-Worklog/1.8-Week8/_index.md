@@ -21,7 +21,7 @@ pre: " <b> 1.8. </b> "
 | Day | Task                                                                                                                                                                                                   | Start Date | Completion Date | Reference Material                        |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | ----------------------------------------- |
 | 2   | - Review Docker: Dockerfile, Image, Container <br> - Learn about Amazon ECR (Elastic Container Registry) | 27/10/2025 | 27/10/2025 |
-| 3   | - **Practice:** Build a Docker Image for a simple NodeJS app <br> - Push the Image to an ECR repository | 28/10/2025 | 28/10/2025 | <https://cloudjourney.awsstudygroup.com/> |
+| 3   | - **Practice:** Build a Docker Image for a simple NodeJS app <br> - Push the Image to an ECR repository | 28/10/2025 | 28/10/2025 |  |
 | 4   | - Learn about Amazon ECS (Elastic Container Service) <br> - Distinguish between EC2 Launch Type and Fargate (Serverless compute for containers) | 29/10/2025 | 29/10/2025 |
 | 5   | - **Practice:** Create an ECS Cluster, Task Definition, and Service <br> - Deploy containers running on the Fargate platform | 30/10/2025 | 30/10/2025 | 
 | 6   | - Verify running applications, view container logs on AWS. | 31/10/2025 | 31/10/2025 | 

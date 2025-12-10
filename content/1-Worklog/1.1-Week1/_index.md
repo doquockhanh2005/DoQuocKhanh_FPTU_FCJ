@@ -22,10 +22,10 @@ pre: " <b> 1.1. </b> "
 | Day | Task                                                                                                                                                                                                   | Start Date | Completion Date | Reference Material                        |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | ----------------------------------------- |
 | 2   | - Connect with FCJ members <br> - Read and take note of internship unit rules and regulations                                                                                                   | 08/09/2025 | 08/09/2025      |
-| 3   | - Learn about AWS account <br> - **Practice:** <br> Create AWS Free Tier account                                              | 09/09/2025 | 09/09/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | Introduction to cloud computing <br>    | 10/09/2025 | 10/09/2025   | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Learn AWS account and cost management tools, <br> - Learn about AWS support  <br>                            | 11/09/2025 | 11/09/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Practice:** Create buget for account and admin group and admin user <br>                                                                                | 12/09/2025 | 12/09/2025      | <https://cloudjourney.awsstudygroup.com/> |
+| 3   | - Learn about AWS account <br> - **Practice:** <br> Create AWS Free Tier account                                              | 09/09/2025 | 09/09/2025      |  |
+| 4   | Introduction to cloud computing <br>    | 10/09/2025 | 10/09/2025   |  |
+| 5   | - Learn AWS account and cost management tools, <br> - Learn about AWS support  <br>                            | 11/09/2025 | 11/09/2025      |  |
+| 6   | - **Practice:** Create buget for account and admin group and admin user <br>                                                                                | 12/09/2025 | 12/09/2025      |  |
 
 
 ### Week 1 Achievements:

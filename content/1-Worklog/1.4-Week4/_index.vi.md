@@ -23,10 +23,10 @@ pre: " <b> 1.4. </b> "
 | Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
 | 2   |  - Tìm hiểu về Amazon S3: Buckets, Objects, Storage Classes <br> - Tìm hiểu S3 Security (Bucket Policy, ACLs)    | 29/09/2025   | 29/09/2025      |
-| 3   | - **Thực hành:** Tạo S3 Bucket, upload file, bật tính năng Versioning <br> - Cấu hình S3 Static Website Hosting                                            | 30/09/2025   | 30/09/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   |  - Tìm hiểu về Amazon CloudFront (CDN), Edge Locations <br> - Khái niệm Origin và Behavior trong CloudFront  | 01/10/2025   | 01/10/2025      | <https://cloudjourney.awsstudygroup.com/> |
+| 3   | - **Thực hành:** Tạo S3 Bucket, upload file, bật tính năng Versioning <br> - Cấu hình S3 Static Website Hosting                                            | 30/09/2025   | 30/09/2025      |  |
+| 4   |  - Tìm hiểu về Amazon CloudFront (CDN), Edge Locations <br> - Khái niệm Origin và Behavior trong CloudFront  | 01/10/2025   | 01/10/2025      |  |
 | 5   | - **Thực hành:** Tạo CloudFront Distribution với Origin là S3 Bucket <br> - Cấu hình OAC (Origin Access Control) để bảo mật S3                  | 02/10/2025   | 02/10/2025      |
-| 6   | - Ôn tập S3 và CloudFront                                                                                         | 03/10/2025   | 03/10/2025      | <https://cloudjourney.awsstudygroup.com/> |
+| 6   | - Ôn tập S3 và CloudFront                                                                                         | 03/10/2025   | 03/10/2025      |  |
 
 
 ### Kết quả đạt được tuần 4:

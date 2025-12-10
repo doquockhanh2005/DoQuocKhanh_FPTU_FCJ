@@ -24,7 +24,7 @@ pre: " <b> 1.11. </b> "
 | 3   | - **Thực hành:** Tạo CloudWatch Alarm gửi email qua SNS khi CPU EC2 > 80% <br> - Cài CloudWatch Agent để lấy thông số RAM (Memory usage)                                            | 18/11/2025   | 18/11/2025      |
 | 4   | - Tìm hiểu AWS CloudTrail (Audit log) <br> - Tìm hiểu AWS X-Ray (Tracing cho microservices)  | 19/11/2025   | 19/11/2025      |
 | 5   | - **Thực hành:** Tạo Dashboard trên CloudWatch để quan sát tổng quan hệ thống <br> - Kiểm tra CloudTrail để xem ai đã xóa resource                  | 20/11/2025   | 20/11/2025      |
-| 6   | - Review CouldTrail và CouldWatch                                                                                         | 15/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
+| 6   | - Review CouldTrail và CouldWatch                                                                                         | 15/08/2025   | 15/08/2025      |  |
 
 
 ### Kết quả đạt được tuần 11:
