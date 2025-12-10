@@ -16,7 +16,8 @@ pre: " <b> 7. </b> "
 ### Đánh giá chung
 
 **1. Môi trường làm việc**  
-Môi trường làm việc rất thân thiện và cởi mở. Các thành viên trong FCJ luôn sẵn sàng hỗ trợ khi mình gặp khó khăn, kể cả ngoài giờ làm việc. Không gian làm việc gọn gàng, thoải mái, giúp mình tập trung tốt hơn. Tuy nhiên, mình nghĩ có thể bổ sung thêm một số buổi giao lưu hoặc team bonding để mọi người hiểu nhau hơn.
+Môi trường làm việc thân thiện, các mentor rất hòa đồng và hỗ trợ nhiệt tình. Họ luôn sẵn lòng giúp đỡ tôi khi tôi gặp bất kỳ vấn đề nào. Không gian làm việc gọn gàng và thoải mái, giúp tôi tập trung tốt hơn. Tuy nhiên, tôi nghĩ sẽ tốt hơn nếu thường xuyên tổ chức các buổi giao lưu hoặc hoạt động gắn kết nhóm để mọi nguời hiểu nhau hơn.
+
 
 **2. Sự hỗ trợ của mentor / team admin**  
 Mentor hướng dẫn rất chi tiết, giải thích rõ ràng khi mình chưa hiểu và luôn khuyến khích mình đặt câu hỏi. Team admin hỗ trợ các thủ tục, tài liệu và tạo điều kiện để mình làm việc thuận lợi. Mình đánh giá cao việc mentor cho phép mình thử và tự xử lý vấn đề thay vì chỉ đưa đáp án.
@@ -31,16 +32,19 @@ Trong quá trình thực tập, mình học được nhiều kỹ năng mới nh
 Văn hóa công ty rất tích cực: mọi người tôn trọng lẫn nhau, làm việc nghiêm túc nhưng vẫn vui vẻ. Khi có dự án gấp, mọi người cùng nhau cố gắng, hỗ trợ không phân biệt vị trí. Điều này giúp mình cảm thấy mình là một phần của tập thể, dù chỉ là thực tập sinh.
 
 **6. Chính sách / phúc lợi cho thực tập sinh**  
-Công ty có hỗ trợ phụ cấp thực tập và tạo điều kiện về thời gian linh hoạt khi cần thiết. Ngoài ra, việc được tham gia các buổi đào tạo nội bộ là một điểm cộng lớn.
+Công ty thường xuyên tạo cơ hội cho tôi kết nối với các cố vấn khác để cải thiện mạng lưới quan hệ của mình. Thêm vào đó, tôi đã học được các kỹ năng giao tiếp – điều này giúp tôi tự tin hơn khi giao tiếp với đồng nghiệp, điều mà trước đây tôi không làm được.
 
 
 ### Một số câu hỏi khác
-- Điều bạn **hài lòng nhất** trong thời gian thực tập?  
-- Điều bạn nghĩ công ty **cần cải thiện** cho các thực tập sinh sau?  
-- Nếu giới thiệu cho bạn bè, bạn có **khuyên họ thực tập ở đây không**? Vì sao?  
+#### Điều bạn **hài lòng nhất** trong thời gian thực tập?
 
-
+- Điều tôi hài lòng nhất là môi trường hoạt động của doanh nghiệp và các anh chị mentor thân thiện trong thời gian tôi thực tập tại công ty 
+#### Điều bạn nghĩ công ty cần cải thiện cho các thực tập sinh sau?
+- Tôi nghĩ là công ty nên tổ chức thêm các buổi giao lưu với nhau để cùng tìm hiểu thêm về các công nghệ mới trong tương lai.
+#### Nếu giới thiệu cho bạn bè, bạn có khuyên họ thực tập ở đây không? Vì sao?
+Chắc chắn là có. Vì môi trường tích cực, linh động là điều mà phù hợp với các bạn mới bắt đầu làm quen với công việc và tiếp xúc nhiều công nghệ mới.  
 ### Đề xuất & mong muốn
-- Bạn có đề xuất gì để cải thiện trải nghiệm trong kỳ thực tập?  
-- Bạn có muốn tiếp tục chương trình này trong tương lai?
-- Góp ý khác (tự do chia sẻ):
+#### Bạn có đề xuất gì để cải thiện trải nghiệm trong kỳ thực tập?
+Em tạm thời không có ý kiến 
+#### Bạn có muốn tiếp tục chương trình này trong tương lai?
+Nếu như có cơ hội được đồng hành cùng công ty, tôi nghĩ rằng tôi sẽ tiếp tục và tham gia các chứng chỉ của AWS 
